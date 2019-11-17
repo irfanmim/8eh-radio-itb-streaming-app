@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "742127019274",
+    "firebase_url": "https://a8eh-radio-itb.firebaseio.com",
+    "project_id": "a8eh-radio-itb",
+    "storage_bucket": "a8eh-radio-itb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742127019274:android:0d2adf675ae93eef",
+        "android_client_info": {
+          "package_name": "id.ac.itb.a8eh.radiostreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742127019274-n9pod93hd0ffb0iecj2ub6nva4r20s4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDogVz0aQY79joU6WNE_KCBAI9wNHMmGc8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

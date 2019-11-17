@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="match_parent"
+     android:layout_width="match_parent">
+
+    <item
+        android:drawable="@drawable/splash_background"/>
+        <!--android:drawable="@drawable/splash_background"/>-->
+
+    <!--<item>-->
+        <!--<bitmap-->
+            <!--android:gravity="center"-->
+            <!--android:src="@drawable/logo"/>-->
+    <!--</item>-->
+
+    <item
+        android:drawable="@drawable/logo_with_text"
+        android:gravity="center"
+        android:height="115dp"
+        android:width="240dp">
+    </item>
+
+</layer-list>
